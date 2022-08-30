@@ -1,2 +1,0 @@
-# BigMart-Sales [machine learning]
-
